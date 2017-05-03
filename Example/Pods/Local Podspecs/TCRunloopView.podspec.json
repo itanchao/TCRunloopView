@@ -1,0 +1,22 @@
+{
+  "name": "TCRunloopView",
+  "version": "0.1.0",
+  "summary": "A short description of TCRunloopView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/itanchao/TCRunloopView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "itanchao": "itanchao@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/itanchao/TCRunloopView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TCRunloopView/Classes/**/*"
+}
