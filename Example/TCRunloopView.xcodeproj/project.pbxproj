@@ -42,10 +42,10 @@
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		75CB9A9CEDC364DB4ECAD139 /* Pods-TCRunloopView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TCRunloopView_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TCRunloopView_Example/Pods-TCRunloopView_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		92FA3877A0F2442B7E3EC341 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		9A4DDE4DC81A864D6855E0BB /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		92FA3877A0F2442B7E3EC341 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		9A4DDE4DC81A864D6855E0BB /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		C5E8E56915E43DC1CFDD945E /* Pods-TCRunloopView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TCRunloopView_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-TCRunloopView_Tests/Pods-TCRunloopView_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		C8563DB2A78837BFC9D36307 /* TCRunloopView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = TCRunloopView.podspec; path = ../TCRunloopView.podspec; sourceTree = "<group>"; };
+		C8563DB2A78837BFC9D36307 /* TCRunloopView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = TCRunloopView.podspec; path = ../TCRunloopView.podspec; sourceTree = "<group>"; };
 		EC8C2D377FBB7635671D57D1 /* Pods_TCRunloopView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TCRunloopView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
