@@ -13,10 +13,6 @@ public protocol TCRunLoopViewDelegate: NSObjectProtocol, UIScrollViewDelegate {
     func runLoopViewDidClick(_ loopView:TCRunLoopView, didSelectRowAtIndex index: NSInteger)
     func runLoopViewDidScroll(_ loopView: TCRunLoopView, didScrollRowAtIndex index: NSInteger)
 }
-extension TCRunLoopViewDelegate{
-    func runLoopViewDidClick(_ loopView:TCRunLoopView, didSelectRowAtIndex index: NSInteger){}
-    func runLoopViewDidScroll(_ loopView: TCRunLoopView, didScrollRowAtIndex index: NSInteger){}
-}
 public struct LoopData {
     public var imageUrl : String = ""
     public var desc : String = ""
@@ -337,3 +333,8 @@ fileprivate extension UIView{
         return self.frame.origin
     }
 }
+public extension TCRunLoopViewDelegate{
+    func runLoopViewDidClick(_ loopView:TCRunLoopView, didSelectRowAtIndex index: NSInteger){}
+    func runLoopViewDidScroll(_ loopView: TCRunLoopView, didScrollRowAtIndex index: NSInteger){}
+}
+
