@@ -52,7 +52,9 @@ pod "TCRunloopView"
         
 ```
 
+## View
 
+![](./RunLoopSwiftView.gif)
 
 ## Author
 
